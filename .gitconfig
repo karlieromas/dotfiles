@@ -180,3 +180,9 @@
 [url "git://gist.github.com/"]
 
 	insteadOf = "gist:"
+[user]
+	name = "Justin Hopkins"
+	email = "hopkinsju@gmail.com"
+[rerere]
+	enabled = true
+
