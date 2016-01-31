@@ -12,6 +12,7 @@ alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
 alias p="cd ~/projects"
 alias g="git"
+alias git="hub" # alias the standard git command to use the github cli
 alias h="history"
 alias j="jobs"
 alias github="cd ~/GitHub"
