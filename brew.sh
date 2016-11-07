@@ -106,3 +106,10 @@ brew install zopfli
 
 # Remove outdated versions from the cellar.
 brew cleanup
+
+# Needed things for mobile development
+brew install node
+brew install watchman
+brew install yarn
+yarn add global react-native-cli
+yarn add react-native
