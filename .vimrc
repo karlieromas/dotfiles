@@ -104,3 +104,7 @@ if has("autocmd")
 	" Treat .md files as Markdown
 	autocmd BufNewFile,BufRead *.md setlocal filetype=markdown
 endif
+
+" Go lint support
+" Use :Lint to run
+set rtp+=$GOPATH/src/github.com/golang/lint/misc/vim
